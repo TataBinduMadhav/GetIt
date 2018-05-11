@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Getit Table" language="en" table="x_208907_getit_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Getit Table</label>
+            <language>en</language>
+            <name>x_208907_getit_table</name>
+            <plural>Getit Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-11 22:47:22</sys_created_on>
+            <sys_id>8ce0a2450f0613003d6d409ce1050ec0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Getit Table</sys_name>
+            <sys_package display_value="Getit" source="x_208907_getit">efd0ea050f0613003d6d409ce1050e06</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Getit">efd0ea050f0613003d6d409ce1050e06</sys_scope>
+            <sys_update_name>sys_documentation_x_208907_getit_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-11 22:47:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
